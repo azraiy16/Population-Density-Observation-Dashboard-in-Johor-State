@@ -2,8 +2,6 @@
 
 > 🌐 **Live Demo:** [https://johordashboard.ifree.page](https://johordashboard.ifree.page)
 
-![Dashboard](screenshots/dashboard.png)
-
 > **Final Year Project (Web-Based GIS)**
 > Faculty of Built Environment and Surveying, Universiti Teknologi Malaysia (UTM)
 > Department of Geoinformation
