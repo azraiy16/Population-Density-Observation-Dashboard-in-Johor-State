@@ -210,7 +210,6 @@ Key findings from the data (2020–2024):
 | Item | Link |
 |---|---|
 | **Dashboard** | https://johordashboard.ifree.page |
-| **GitHub Repo** | [Add your GitHub link here] |
 
 ---
 
