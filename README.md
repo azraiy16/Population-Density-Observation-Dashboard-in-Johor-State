@@ -150,25 +150,6 @@ Open browser and go to:
 ```
 http://localhost/johor_dashboard/
 ```
-
----
-
-## 📸 Screenshots
-
-### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard.png)
-
-### Choropleth Map
-![Map View](screenshots/map.png)
-
-### Population Trend Chart
-![Trend Chart](screenshots/chart_trend.png)
-
-### Data Table
-![Data Table](screenshots/table.png)
-
-> 📌 *Add your own screenshots into a `/screenshots` folder in this repository.*
-
 ---
 
 ## 📊 Data Source
@@ -220,22 +201,7 @@ Key findings from the data (2020–2024):
 - **Mersing** records the lowest population density
 - Overall Johor State population shows a steady upward trend across all years
 - 2024 preliminary data indicates continued population growth
-
----
-
-## 👨‍🎓 Project Information
-
-| Item | Details |
-|---|---|
-| Student | [Your Name] |
-| Matric No. | [Your Matric No.] |
-| Programme | Bachelor of Science in Geoinformatics (Honours) |
-| Faculty | Faculty of Built Environment and Surveying |
-| University | Universiti Teknologi Malaysia (UTM) |
-| Supervisor | Assoc. Prof. Dr. Muhammad Zulkarnain bin Abd Rahman |
-| Session | [Academic Session] |
-
----
+  
 
 *Data source: Department of Statistics Malaysia (DOSM). 2024 data is preliminary and subject to revision.*
 
